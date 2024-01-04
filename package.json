@@ -3,6 +3,8 @@
 	"author": "Andrei Sepulveda",
 	"description": "A project that im using to learn",
 	"keywords": ["To Learn","Practice","NPM"],
+	"license" : "MIT",
+	"version": "1.0",
 	"dependencies": {
 	  "express": "^4.14.0"
 	},
